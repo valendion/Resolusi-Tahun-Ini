@@ -1,0 +1,4 @@
+Resolusi ke depan
+-	Memahami Github
+-	Memahmi Jetpack Android
+-	Memahami MVVM
