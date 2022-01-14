@@ -1,2 +1,4 @@
 1. Membuat video programming
+  * Android Kotlin
 2. Bekerja dengan laptop
+3. Keluar kota
