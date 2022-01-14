@@ -1,2 +1,3 @@
 1. Membuat video programming
-2. Bekerja dengan laptop
+  * NodeJs
+2. Ganti laptop
