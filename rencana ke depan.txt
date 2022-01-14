@@ -1,3 +1,5 @@
 1. Membuat video programming
   * NodeJs
+  * Android Kotlin
 2. Ganti laptop
+3. Bekerja dengan laptop
